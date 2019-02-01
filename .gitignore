@@ -23,8 +23,16 @@
 hs_err_pid*
 
 #Idea
+<<<<<<< HEAD
 .idea/*
 *.iml
 
 #Build
 target/*
+=======
+.idea/
+*.iml
+
+#Build
+target/
+>>>>>>> add lab1
